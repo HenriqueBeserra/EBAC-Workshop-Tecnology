@@ -1,4 +1,4 @@
 # EBAC-Workshop-Tecnology
-Projeto desenvolvido durante o workshop promovido pela e.b.a.c
+Projeto de pokedex desenvolvido durante o workshop promovido pela e.b.a.c
 
 <img src="pokeimg.png">
